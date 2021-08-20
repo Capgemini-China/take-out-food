@@ -13,8 +13,9 @@ public class App {
     }
 
     public String bestCharge(List<String> inputs) {
-        //TODO: write code here
-
+        // generate Order Items
+        // generate best Promotion Order
+        // print statement
         return null;
     }
 }
