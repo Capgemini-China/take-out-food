@@ -96,4 +96,4 @@ In total: 24 yuan
 ## How to take the test
 - Go to the root directory and execute `./gradlew clean test` to check the test result
 
-123
+1231212
